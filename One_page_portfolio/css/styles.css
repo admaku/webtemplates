@@ -1,0 +1,32 @@
+
+body {
+  padding-top: 50px;
+}
+
+.starter-template {
+  padding: 40px 15px;
+  text-align: center;
+}
+.header{
+	padding: 20px;
+	background-image: url(".../img/bg.jpg");
+	background-attachment: fixed;
+	background-position: center;
+	background-repeat: no-repeat;
+	opacity: 0.3;
+	background-size: cover;
+}
+
+.header-text{
+	text-align: center;
+}
+
+.projects {
+  padding: 20px;
+  text-align: center;
+}
+
+.contact {
+padding: 20px;
+text-align: center;
+}
